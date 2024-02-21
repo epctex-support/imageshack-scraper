@@ -1,4 +1,4 @@
-[https://apify.com/epctex/imageshack-scraper?fpr=yhdrb](https://apify.com/epctex/imageshack-scraper?fpr=yhdrb)
+[https://apify.com/epctex/imageshack-scraper](https://apify.com/epctex/imageshack-scraper?fpr=yhdrb)
 
 # Actor - ImageShack Scraper
 
